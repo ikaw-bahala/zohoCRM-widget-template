@@ -243,6 +243,7 @@ module.exports = function (webpackEnv) {
       minimizer: [
         // This is only used in production mode
         new TerserPlugin({
+          extractComments: false,
           terserOptions: {
             parse: {
               // We want terser to parse ecma 8 code. However, we don't want it
