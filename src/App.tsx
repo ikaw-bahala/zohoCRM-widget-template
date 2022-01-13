@@ -2,12 +2,8 @@ import { useEffect } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-declare var ZOHO: any;
-
 function App() {
   useEffect(() => {
-    ZOHO.embeddedApp.init();
-
     setTimeout(() => {
       // add a delay before using the REST API
     }, 500);
