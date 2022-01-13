@@ -1,8 +1,18 @@
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
+import { useEffect } from 'react';
+import logo from './logo.svg';
+import './App.css';
+
+declare var ZOHO: any;
 
 function App() {
+  useEffect(() => {
+    ZOHO.embeddedApp.init();
+
+    setTimeout(() => {
+      // add a delay before using the REST API
+    }, 500);
+  }, []);
+
   return (
     <div className="App">
       <header className="App-header">
@@ -12,8 +22,7 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
-        >
+          rel="noopener noreferrer">
           Learn React
         </a>
       </header>
