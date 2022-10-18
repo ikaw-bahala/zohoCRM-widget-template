@@ -1,0 +1,6 @@
+node_modules
+dist
+scripts
+config
+CHANGELOG.md
+README.md
