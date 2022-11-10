@@ -4,12 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-declare var ZOHO: any;
+declare let ZOHO: any;
 
 ZOHO.embeddedApp.init();
 
-const container = document.getElementById('app');
+const container = document.getElementById('root');
 
+// eslint-disable-next-line @typescript-eslint/no-non-null-assertion
 const root = createRoot(container!);
 
 root.render(
