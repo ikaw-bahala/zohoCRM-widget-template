@@ -2,6 +2,17 @@
 
 All notable changes to `zohoCRM-widget-template` will be documented in this file.
 
+## 1.0.2 - 2022-11-10
+
+### What's Changed
+
+- Bump dependabot/fetch-metadata from 1.3.4 to 1.3.5 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/11
+- chore(update @testing-library/react to version 13): by @MarJose123 in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/12
+- Bump loader-utils from 2.0.2 to 2.0.3 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/13
+- fixed invalid container element.
+
+**Full Changelog**: https://github.com/ikaw-bahala/zohoCRM-widget-template/compare/1.0.1...1.0.2
+
 ## 1.0.1 - 2022-10-18
 
 ### What's Changed
