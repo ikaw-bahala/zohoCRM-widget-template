@@ -2,6 +2,35 @@
 
 All notable changes to `zohoCRM-widget-template` will be documented in this file.
 
+## 1.0.3 - 2024-01-30
+
+### What's Changed
+
+* Bump minimatch and recursive-readdir by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/14
+* Bump loader-utils from 2.0.3 to 2.0.4 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/17
+* Bump nth-check and @svgr/webpack by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/15
+* Bump actions/dependency-review-action from 2 to 3 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/16
+* Bump json5 from 1.0.1 to 1.0.2 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/18
+* Bump dependabot/fetch-metadata from 1.3.5 to 1.3.6 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/19
+* Bump webpack from 5.74.0 to 5.76.0 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/20
+* Bump dependabot/fetch-metadata from 1.3.6 to 1.4.0 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/21
+* Bump dependabot/fetch-metadata from 1.4.0 to 1.5.1 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/22
+* Bump semver from 7.3.8 to 7.5.2 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/23
+* Bump dependabot/fetch-metadata from 1.5.1 to 1.6.0 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/24
+* Bump tough-cookie from 4.1.2 to 4.1.3 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/25
+* Bump word-wrap from 1.2.3 to 1.2.4 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/26
+* Bump @adobe/css-tools from 4.0.1 to 4.3.1 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/27
+* Bump postcss from 8.4.18 to 8.4.31 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/29
+* Bump @babel/traverse from 7.20.1 to 7.23.2 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/31
+* Bump @adobe/css-tools from 4.3.1 to 4.3.2 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/32
+* Bump follow-redirects from 1.15.2 to 1.15.4 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/34
+* Bump actions/checkout from 3 to 4 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/28
+* Bump stefanzweifel/git-auto-commit-action from 4 to 5 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/30
+* Bump github/codeql-action from 2 to 3 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/33
+* Bump actions/dependency-review-action from 3 to 4 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/35
+
+**Full Changelog**: https://github.com/ikaw-bahala/zohoCRM-widget-template/compare/1.0.2...1.0.3
+
 ## 1.0.2 - 2022-11-10
 
 ### What's Changed
