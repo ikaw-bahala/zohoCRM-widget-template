@@ -2,6 +2,30 @@
 
 All notable changes to `zohoCRM-widget-template` will be documented in this file.
 
+## 1.0.4 - 2024-10-23
+
+### What's Changed
+
+* Bump follow-redirects from 1.15.4 to 1.15.6 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/36
+* Bump webpack-dev-middleware from 5.3.3 to 5.3.4 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/37
+* Bump express from 4.18.2 to 4.19.2 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/39
+* Bump ejs from 3.1.8 to 3.1.10 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/41
+* Bump ws from 7.5.9 to 7.5.10 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/43
+* Bump braces from 3.0.2 to 3.0.3 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/44
+* Bump webpack from 5.76.0 to 5.94.0 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/46
+* Bump micromatch from 4.0.5 to 4.0.8 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/47
+* Bump rollup from 2.79.1 to 2.79.2 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/52
+* Bump semver from 6.3.0 to 7.6.0 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/42
+* Bump dependabot/fetch-metadata from 1.6.0 to 2.2.0 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/45
+* Bump serve-static and express by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/48
+* Bump http-proxy-middleware from 2.0.6 to 2.0.7 by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/54
+* Bump send and express by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/49
+* Bump path-to-regexp and express by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/50
+* Bump body-parser and express by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/51
+* Bump cookie and express by @dependabot in https://github.com/ikaw-bahala/zohoCRM-widget-template/pull/53
+
+**Full Changelog**: https://github.com/ikaw-bahala/zohoCRM-widget-template/compare/1.0.3...1.0.4
+
 ## 1.0.3 - 2024-01-30
 
 ### What's Changed
